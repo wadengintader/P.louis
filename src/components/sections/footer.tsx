@@ -12,7 +12,7 @@ const Footer = () => {
             href="https://www.facebook.com/crumblcookies/" 
             target="_blank"
             rel="noopener noreferrer"
-            className="w-7 h-7 rounded-full bg-[#ffb9cd] hover:bg-[#ffb9cd] flex items-center justify-center text-black hover:scale-110 transition-transform duration-300"
+            className="w-7 h-7 rounded-full bg-[#fff0f7] hover:bg-[#fff0f7] flex items-center justify-center text-black hover:scale-110 transition-transform duration-300"
             aria-label="Facebook"
           >
             <Facebook className="w-3.5 h-3.5 fill-current" />
@@ -21,7 +21,7 @@ const Footer = () => {
             href="https://www.instagram.com/crumbl/?hl=en"
             target="_blank"
             rel="noopener noreferrer"
-            className="w-7 h-7 rounded-full bg-[#ffb9cd] hover:bg-[#ffb9cd] flex items-center justify-center text-black hover:scale-110 transition-transform duration-300"
+            className="w-7 h-7 rounded-full bg-[#fff0f7] hover:bg-[#fff0f7] flex items-center justify-center text-black hover:scale-110 transition-transform duration-300"
             aria-label="Instagram"
           >
             <Instagram className="w-3.5 h-3.5" />
