@@ -43,7 +43,7 @@ export default function InstructionSteps() {
       <div className="relative rounded-[1.5rem] sm:rounded-[2rem] p-2 sm:p-4 bg-white/5 backdrop-blur-md border-2 border-[#ffa0bb]/25 shadow-[0_8px_32_rgb(0, 0, 0)] overflow-hidden group/box transition-all duration-500 hover:border-[#ffa0bb]/50 hover:scale-[1.01]">
         <div className="absolute inset-0 rounded-[1.5rem] sm:rounded-[2rem] overflow-hidden pointer-events-none">
           <img
-            src="https://i.imgur.com/Blglsjk.png"
+            src="https://i.imgur.com/WvRzAIn.jpeg"
             alt=""
             className="w-full h-full object-cover opacity-16"
           />
